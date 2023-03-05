@@ -23,3 +23,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Project Image
+![FirstRepoImage](https://user-images.githubusercontent.com/96573996/222952211-b8f43980-c20d-4350-baf4-45f08600f1ff.png)
+
